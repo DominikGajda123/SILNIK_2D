@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SILNIK_2D\\x64\\Debug\\Shapes.obj",
+            "outputs": [
+                "SILNIK_2D\\x64\\Debug\\Shapes.h.obj.dt.module.json",
+                "SILNIK_2D\\x64\\Debug\\Shapes.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
